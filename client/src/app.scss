@@ -1,0 +1,14 @@
+.app{
+
+  .link{
+    color: inherit;
+    text-decoration: none; //this makes the link not underlined or highlighted
+  }
+  font-family: 'Open Sans', sans-serif;
+}
+body {
+  // overflow-y: hidden; /* Hide vertical scrollbar */
+  overflow-x: hidden; /* Hide horizontal scrollbar */
+  margin: 0;
+  padding: 0;
+}
